@@ -1,4 +1,4 @@
-baseurl = "https://github.com/guilhermescame/portfoliov2"  # Include trailing slash
+baseurl = "https://master.d2yhbxwtpkrwx2.amplifyapp.com"  # Include trailing slash
 title = "Laziness"
 theme = "hugo-swift-theme-master"
 author = "Steve Francia"
